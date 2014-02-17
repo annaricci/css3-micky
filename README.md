@@ -1,4 +1,4 @@
-css3-micky
-==========
+css3-mickey
+===========
 
-A demo of CSS3 properties
+This is a demo of CSS3 properties. The various CSS3 properties such as border-radius, transformations and pseudo classes are implemented.
